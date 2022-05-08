@@ -10,8 +10,8 @@ import telethon
 import glob
 
 
-API_ID = 77362
-API_HASH = "aa1iy8"
+API_ID = "api id telegram account my.telegram.org/my/bot"
+API_HASH = "api hash my telegram account"
 
 userbot_personal = TelegramClient("userbot_personal", API_ID, API_HASH)
 

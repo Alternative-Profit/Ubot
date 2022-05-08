@@ -128,3 +128,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+userbot_personal.session
+
+Userbot_personal.py
+

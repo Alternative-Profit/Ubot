@@ -1,17 +1,7 @@
-# Userbot-personal
-This code is free it is not a code that is very long
-
-
-### Self Host
-- Termux or Heroku
-
-
-## Description
-- The license will not be there
-
-- I will only wear two or three things but I will not put much
-
-
-## Support Group
-
-[Support Group](https://t.me/+crI3ZD3GAIw3ZDU0)
+# Userbot-personale 
+Questo codice è gratuito non è un codice molto lungo
+### Self Host - Termux o Heroku 
+## Descrizione 
+- La licenza non ci sarà 
+- Metterò solo due o tre cose ma non ci metterò molto
+ ## Gruppo di supporto [Gruppo di supporto] (https://t.me/+crI3ZD3GAIw3ZDU0)
