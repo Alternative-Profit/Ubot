@@ -59,13 +59,8 @@ async def usbot():
 
     @userbot_personal.on(events.NewMessage(outgoing=True))
     async def t_p(event):
-        if event.text == ".d":
-            await event.edit("d lol")
-
-    # @userbot_personal.on(events.Raw)
-    # async def handler(update):
-        # Print all incoming updates
-        # await userbot_personal.send_message("me",update.stringify())
+        if event.text == ".ironia":
+            await event.edit("L'ironia consiste nell'affermare il contrario di ciò che si pensa con lo scopo di ridicolizzare o sottolineare concetti per provocare una risata. L'ironia implica una critica, ma si differenzia nettamente dal sarcasmo, che implica anche disprezzo.")
 
     @userbot_personal.on(events.NewMessage(outgoing=True, pattern=r"\.delm"))
     async def _delm(event):
