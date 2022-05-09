@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+<p align="center">
+    <a href="https://github.com/Alternative-Profit/Ubot">
+        <img src="https://telegra.ph/file/7f5c2bf20766dd4626333.png" alt="Ubot">
+    </a>
+    <br>
+    <b>Telegram Userbot Plugins</b>
+    <br>
 
-You can use the [editor on GitHub](https://github.com/Alternative-Profit/Ubot/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Ubot 🔥
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Build Status](https://travis-ci.com/Alternative-Profit/Ubot.svg?branch=alpha)](https://travis-ci.com/Alternative-Profit/Ubot)
+![Python Version](https://img.shields.io/badge/python-3.8/3.9-lightgrey)
+![Release](https://img.shields.io/github/v/release/Alternative-Profit/Ubot)
+![Stars](https://img.shields.io/github/stars/Alternative-Profit/Ubot)
+![Forks](https://img.shields.io/github/forks/Alternative-Profit/Ubot)
+![Issues Open](https://img.shields.io/github/issues/Alternative-Profit/Ubot)
+![Issues Closed](https://img.shields.io/github/issues-closed/Alternative-Profit/Ubot)
+![PRs Open](https://img.shields.io/github/issues-pr/Alternative-Profit/Ubot)
+![PRs Closed](https://img.shields.io/github/issues-pr-closed/Alternative-Profit/Ubot)
+![Contributors](https://img.shields.io/github/contributors/Alternative-Profit/Ubot)
+![Repo Size](https://img.shields.io/github/repo-size/Alternative-Profit/Ubot)
+![License](https://img.shields.io/github/license/Alternative-Profit/Ubot)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/Alternative-Profit/Ubot)
+[![Plugins Repo!](https://img.shields.io/badge/Plugins%20Repo-!-orange)](https://github.com/Alternative-Profit/Ubot-Plugins)
+[![Join Channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/theUserge)
+[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/Alternative-Profit/Ubot/?ref=repository-badge)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Alternative-Profit/Ubot)
 
-### Markdown
+> **Ubot** è un potente ,UserBot per Telegram scritto in _Python_ usando [Pyrogram](https://github.com/pyrogram/pyrogram).
+## Ispirazione 😇
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Questo progetto è ispirato dai seguenti progetti 😄
+* [tg_userbot](https://github.com/watzon/tg_userbot) ( heavily ) 🤗
+* [PyroGramBot](https://github.com/SpEcHiDe/PyroGramBot)
+* [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane)
+* [UniBorg](https://github.com/SpEcHiDe/UniBorg)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+> Un ringraziamento speciale a tutti voi!!!.
 
-1. Numbered
-2. List
+## [Documentazione]https://Alternative-Profit.github.io/Ubot/) 📘
 
-**Bold** and _Italic_ and `Code` text
+## [Decollo](https://Alternative-Profit.github.io/Ubot//deployment) 👷
 
-[Link](url) and ![Image](src)
-```
+## [Plugin](https://Alternative-Profit.github.io/Ubot/) 🔌
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Supporto & Discussione 👥
 
-### Jekyll Themes
+>Dirigiti verso il [Gruppo di Discussione](https://t.me/+XKRJWjUgU7U5Mzhk) e il  [Canale di Aggiornamenti](https://t.me/+YWLJDB5iIVViMWJk)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alternative-Profit/Ubot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [Specialmente a questo progetto](https://github.com/Alternative-Profit/Ubot#inspiration-) 🥰
+* [Contributori](https://github.com/Alternative-Profit/Ubot/graphs/contributors) 👥
 
-### Support or Contact
+### Copyright & Licenza 👮
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Copyright (C) 2020 - 2022 by [Alternative-Team](https://github.com/Alternative-Team) ❤️️
+* Licensed under the terms of the [Apache License,Version 2.0,January,2004](https://github.com/Alternative-Profit/Ubot/blob/master/LICENSE)

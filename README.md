@@ -35,13 +35,24 @@
 * [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane)
 * [UniBorg](https://github.com/SpEcHiDe/UniBorg)
 
-> Un ringraziamento speciale a tutti voi !!!.
 
 
-* [Specially to these projects](https://github.com/Alternative-Profit/Ubot#inspiration-) 🥰
-* [Contributors](https://github.com/Alternative-Profit/Ubot/graphs/contributors) 👥
+> Un ringraziamento speciale a tutti voi!!!.
 
-### Copyright & License 👮
+## [Documentazione]https://Alternative-Profit.github.io/Ubot/) 📘
+
+## [Decollo](https://Alternative-Profit.github.io/Ubot//deployment) 👷
+
+## [Plugin](https://Alternative-Profit.github.io/Ubot/) 🔌
+
+### Supporto & Discussione 👥
+
+>Dirigiti verso il [Gruppo di Discussione](https://t.me/+XKRJWjUgU7U5Mzhk) e il  [Canale di Aggiornamenti](https://t.me/+YWLJDB5iIVViMWJk)
+
+* [Specialmente a questo progetto](https://github.com/Alternative-Profit/Ubot#inspiration-) 🥰
+* [Contributori](https://github.com/Alternative-Profit/Ubot/graphs/contributors) 👥
+
+### Copyright & Licenza 👮
 
 * Copyright (C) 2020 - 2022 by [Alternative-Team](https://github.com/Alternative-Team) ❤️️
-* Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/Alternative-Profit/Ubot/blob/master/LICENSE)
+* Licensed under the terms of the [Apache License,Version 2.0,January,2004](https://github.com/Alternative-Profit/Ubot/blob/master/LICENSE)
